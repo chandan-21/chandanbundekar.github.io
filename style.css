@@ -274,9 +274,10 @@ label {
     font-family: "montserrat", sans-serif;
 }
 
-.copy p {
+.copy {
     margin-top: 0.3rem;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .links {
