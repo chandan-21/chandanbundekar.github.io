@@ -272,13 +272,12 @@ label {
     padding: 1rem;
     margin-top: 2rem;
     font-family: "montserrat", sans-serif;
-}
-
-.copy {
     margin-top: 0.3rem;
     align-items: center;
     justify-content: center;
 }
+
+
 
 .links {
     display: flex;
