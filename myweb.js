@@ -4,6 +4,10 @@ ulresp = document.querySelector(".ulresp");
 cross = document.querySelector(".cross");
 
 hamburger.addEventListener("click", () => {
-    resp.classList.toggle("ulresp");
-    li.classList.toggle("resp");
+  resp.classList.toggle("ulresp");
+  li.classList.toggle("resp");
 });
+
+function myFunction(x) {
+  x.classList.toggle("change");
+}
